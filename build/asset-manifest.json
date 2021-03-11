@@ -7,7 +7,7 @@
     "Charts.css": "/static/css/Charts.b9bc5a09.chunk.css",
     "Charts.js": "/static/js/Charts.7931a3fb.chunk.js",
     "main.css": "/static/css/main.d0c18670.chunk.css",
-    "main.js": "/static/js/main.0355207c.chunk.js",
+    "main.js": "/static/js/main.ffe88582.chunk.js",
     "other.css": "/static/css/other.59d43f1e.chunk.css",
     "other.js": "/static/js/other.0cb1612c.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.a5475f6c.js",
@@ -22,8 +22,8 @@
     "static/js/10.9f64ae89.chunk.js": "/static/js/10.9f64ae89.chunk.js",
     "font/all.min.css": "/font/fa-solid-900-f4f93.min.woff",
     "index.html": "/index.html",
-    "static/js/main.0355207c.chunk.js.LICENSE": "/static/js/main.0355207c.chunk.js.LICENSE",
-    "static/js/main.0355207c.chunk.js.LICENSE.txt": "/static/js/main.0355207c.chunk.js.LICENSE.txt",
+    "static/js/main.ffe88582.chunk.js.LICENSE": "/static/js/main.ffe88582.chunk.js.LICENSE",
+    "static/js/main.ffe88582.chunk.js.LICENSE.txt": "/static/js/main.ffe88582.chunk.js.LICENSE.txt",
     "static/js/other.0cb1612c.chunk.js.LICENSE": "/static/js/other.0cb1612c.chunk.js.LICENSE",
     "static/js/other.0cb1612c.chunk.js.LICENSE.txt": "/static/js/other.0cb1612c.chunk.js.LICENSE.txt",
     "static/js/vendor.15ba6c7a.chunk.js.LICENSE.txt": "/static/js/vendor.15ba6c7a.chunk.js.LICENSE.txt",
@@ -48,6 +48,6 @@
     "static/css/other.59d43f1e.chunk.css",
     "static/js/other.0cb1612c.chunk.js",
     "static/css/main.d0c18670.chunk.css",
-    "static/js/main.0355207c.chunk.js"
+    "static/js/main.ffe88582.chunk.js"
   ]
 }
