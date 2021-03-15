@@ -11,10 +11,10 @@
     "static/js/6.d655d1bd.chunk.js": "/static/js/6.d655d1bd.chunk.js",
     "static/js/7.bf663cf9.chunk.js": "/static/js/7.bf663cf9.chunk.js",
     "Charts.css": "/static/css/Charts.269ca03d.chunk.css",
-    "Charts.js": "/static/js/Charts.857dbd35.chunk.js",
-    "main.css": "/static/css/main.72dec881.chunk.css",
-    "main.js": "/static/js/main.f0682690.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.9f1b3fa3.js",
+    "Charts.js": "/static/js/Charts.20835af8.chunk.js",
+    "main.css": "/static/css/main.2bbaedea.chunk.css",
+    "main.js": "/static/js/main.a871c54f.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c1db18fd.js",
     "static/css/11.bc7791ed.chunk.css": "/static/css/11.bc7791ed.chunk.css",
     "static/js/11.617c5433.chunk.js": "/static/js/11.617c5433.chunk.js",
     "static/css/12.b5ed4bdd.chunk.css": "/static/css/12.b5ed4bdd.chunk.css",
@@ -70,10 +70,10 @@
     "static/media/userTitle.scss": "/static/media/mobile-user-title-left.97426fdb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9f1b3fa3.js",
+    "static/js/runtime-main.c1db18fd.js",
     "static/css/11.bc7791ed.chunk.css",
     "static/js/11.617c5433.chunk.js",
-    "static/css/main.72dec881.chunk.css",
-    "static/js/main.f0682690.chunk.js"
+    "static/css/main.2bbaedea.chunk.css",
+    "static/js/main.a871c54f.chunk.js"
   ]
 }
