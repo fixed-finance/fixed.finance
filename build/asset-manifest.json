@@ -9,7 +9,7 @@
     "Charts.css": "/static/css/Charts.7413bfa6.chunk.css",
     "Charts.js": "/static/js/Charts.ce1d365b.chunk.js",
     "main.css": "/static/css/main.4a7206ea.chunk.css",
-    "main.js": "/static/js/main.12e6a62e.chunk.js",
+    "main.js": "/static/js/main.7ded9a2e.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.43b3aa45.js",
     "vendors.main.css": "/static/css/vendors.main.7f792e74.chunk.css",
     "vendors.main.js": "/static/js/vendors.main.bd8dbddd.chunk.js",
@@ -72,6 +72,6 @@
     "static/css/vendors.main.7f792e74.chunk.css",
     "static/js/vendors.main.bd8dbddd.chunk.js",
     "static/css/main.4a7206ea.chunk.css",
-    "static/js/main.12e6a62e.chunk.js"
+    "static/js/main.7ded9a2e.chunk.js"
   ]
 }
