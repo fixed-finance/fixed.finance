@@ -6,11 +6,11 @@
     "base.chunks.js": "/static/js/base.chunks.3face205.chunk.js",
     "ui.chunks.css": "/static/css/ui.chunks.1e081a10.chunk.css",
     "ui.chunks.js": "/static/js/ui.chunks.43dc6f90.chunk.js",
-    "Charts.css": "/static/css/Charts.35b39393.chunk.css",
-    "Charts.js": "/static/js/Charts.ee03bf79.chunk.js",
+    "Charts.css": "/static/css/Charts.7413bfa6.chunk.css",
+    "Charts.js": "/static/js/Charts.e6b2cf13.chunk.js",
     "main.css": "/static/css/main.66835681.chunk.css",
-    "main.js": "/static/js/main.9b978f1c.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.262aad93.js",
+    "main.js": "/static/js/main.23bab2e7.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.843b7eca.js",
     "vendors.main.css": "/static/css/vendors.main.7f792e74.chunk.css",
     "vendors.main.js": "/static/js/vendors.main.bd8dbddd.chunk.js",
     "static/css/7.bff072f5.chunk.css": "/static/css/7.bff072f5.chunk.css",
@@ -64,7 +64,7 @@
     "static/media/HeaderTitle.scss": "/static/media/mobile-user-title-left.97426fdb.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.262aad93.js",
+    "static/js/runtime-main.843b7eca.js",
     "static/css/base.chunks.c1581375.chunk.css",
     "static/js/base.chunks.3face205.chunk.js",
     "static/css/ui.chunks.1e081a10.chunk.css",
@@ -72,6 +72,6 @@
     "static/css/vendors.main.7f792e74.chunk.css",
     "static/js/vendors.main.bd8dbddd.chunk.js",
     "static/css/main.66835681.chunk.css",
-    "static/js/main.9b978f1c.chunk.js"
+    "static/js/main.23bab2e7.chunk.js"
   ]
 }
