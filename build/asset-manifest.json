@@ -7,10 +7,10 @@
     "ui.chunks.css": "/static/css/ui.chunks.1e081a10.chunk.css",
     "ui.chunks.js": "/static/js/ui.chunks.5074eca1.chunk.js",
     "Charts.css": "/static/css/Charts.73685cd2.chunk.css",
-    "Charts.js": "/static/js/Charts.2195a357.chunk.js",
+    "Charts.js": "/static/js/Charts.4c14d812.chunk.js",
     "main.css": "/static/css/main.145aeeb4.chunk.css",
     "main.js": "/static/js/main.78921c98.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.c18764df.js",
+    "runtime-main.js": "/static/js/runtime-main.5eef3a20.js",
     "vendors.main.css": "/static/css/vendors.main.7f792e74.chunk.css",
     "vendors.main.js": "/static/js/vendors.main.0d5c3746.chunk.js",
     "static/js/7.0d35491e.chunk.js": "/static/js/7.0d35491e.chunk.js",
@@ -63,7 +63,7 @@
     "static/media/walletconnect.png": "/static/media/walletconnect.ad3cbb85.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c18764df.js",
+    "static/js/runtime-main.5eef3a20.js",
     "static/css/base.chunks.c1581375.chunk.css",
     "static/js/base.chunks.51753175.chunk.js",
     "static/css/ui.chunks.1e081a10.chunk.css",
